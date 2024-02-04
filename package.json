@@ -1,0 +1,24 @@
+{
+  "name": "cuddle",
+  "version": "1.0.0",
+  "description": "generic chrome extension",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dark-enstein/cuddle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dark-enstein/cuddle/issues"
+  },
+  "homepage": "https://github.com/dark-enstein/cuddle#readme",
+  "dependencies": {
+    "@octokit/core": "^5.1.0",
+    "dotenv": "^16.4.1"
+  }
+}

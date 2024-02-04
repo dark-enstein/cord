@@ -1,0 +1,49 @@
+body {
+    background-color: #04295B;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    min-height: 100vh; /* Ensure full viewport height */
+}
+
+.space {
+    position: relative;
+    top: -20px;
+}
+
+.cchallenges {
+    text-align: center; /* Center text horizontally within the div */
+    padding: 20px; /* Add some padding for spacing */
+    color: white;
+    font-size: 12vh;
+}
+
+.time {
+    text-align: center; /* Center text horizontally within the div */
+    padding: 5px; /* Add some padding for spacing */
+    color: white;
+    font-size: 10vh;
+}
+
+.date {
+    text-align: center; /* Center text horizontally within the div */
+    padding: 20px; /* Add some padding for spacing */
+    color: white;
+    font-size: 5.5vh;
+}
+
+.prs {
+    text-align: center; /* Center text horizontally within the div */
+    padding: 20px; /* Add some padding for spacing */
+    color: white;
+    font-size: 5.5vh;
+}
+
+.cc {
+    text-align:justify; /* Center text horizontally within the div */
+    padding: 20px; /* Add some padding for spacing */
+    color: white;
+    font-size: 2.5vh;
+}
